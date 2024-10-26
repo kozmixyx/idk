@@ -328,6 +328,8 @@ function calendari(widget, data)
 
 calendari(document.getElementById('calendari'), new Date());
 
+
+
     </script>
 </body>
 </html>
